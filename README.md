@@ -1,4 +1,6 @@
 # #100DaysOfCode with Python course
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/talkpython/100daysofcode-with-python-course.git/master)
+
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pathcl/100daysofcode-with-python-course.git/master)
 
